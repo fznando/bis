@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "/media/disco/UPF/jogos-android/Bis/app/build/intermediates/res/merged/debug/raw/finalend.wav",
+        "source": "/media/disco/UPF/jogos-android/Bis/app/src/main/res/raw/finalend.wav"
+    },
+    {
+        "merged": "/media/disco/UPF/jogos-android/Bis/app/build/intermediates/res/merged/debug/raw/bang.wav",
+        "source": "/media/disco/UPF/jogos-android/Bis/app/src/main/res/raw/bang.wav"
+    },
+    {
+        "merged": "/media/disco/UPF/jogos-android/Bis/app/build/intermediates/res/merged/debug/raw/shoot.wav",
+        "source": "/media/disco/UPF/jogos-android/Bis/app/src/main/res/raw/shoot.wav"
+    },
+    {
+        "merged": "/media/disco/UPF/jogos-android/Bis/app/build/intermediates/res/merged/debug/raw/over.wav",
+        "source": "/media/disco/UPF/jogos-android/Bis/app/src/main/res/raw/over.wav"
+    },
+    {
+        "merged": "/media/disco/UPF/jogos-android/Bis/app/build/intermediates/res/merged/debug/raw/music.wav",
+        "source": "/media/disco/UPF/jogos-android/Bis/app/src/main/res/raw/music.wav"
+    }
+]

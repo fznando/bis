@@ -1,0 +1,66 @@
+[
+    {
+        "merged": "/media/disco/UPF/jogos-android/Bis/app/build/intermediates/res/merged/debug/drawable/shoot.png",
+        "source": "/media/disco/UPF/jogos-android/Bis/app/src/main/res/drawable/shoot.png"
+    },
+    {
+        "merged": "/media/disco/UPF/jogos-android/Bis/app/build/intermediates/res/merged/debug/drawable/pause.png",
+        "source": "/media/disco/UPF/jogos-android/Bis/app/src/main/res/drawable/pause.png"
+    },
+    {
+        "merged": "/media/disco/UPF/jogos-android/Bis/app/build/intermediates/res/merged/debug/drawable/meteor.png",
+        "source": "/media/disco/UPF/jogos-android/Bis/app/src/main/res/drawable/meteor.png"
+    },
+    {
+        "merged": "/media/disco/UPF/jogos-android/Bis/app/build/intermediates/res/merged/debug/drawable/sound.png",
+        "source": "/media/disco/UPF/jogos-android/Bis/app/src/main/res/drawable/sound.png"
+    },
+    {
+        "merged": "/media/disco/UPF/jogos-android/Bis/app/build/intermediates/res/merged/debug/drawable/nave.png",
+        "source": "/media/disco/UPF/jogos-android/Bis/app/src/main/res/drawable/nave.png"
+    },
+    {
+        "merged": "/media/disco/UPF/jogos-android/Bis/app/build/intermediates/res/merged/debug/drawable/logo.png",
+        "source": "/media/disco/UPF/jogos-android/Bis/app/src/main/res/drawable/logo.png"
+    },
+    {
+        "merged": "/media/disco/UPF/jogos-android/Bis/app/build/intermediates/res/merged/debug/drawable/left.png",
+        "source": "/media/disco/UPF/jogos-android/Bis/app/src/main/res/drawable/left.png"
+    },
+    {
+        "merged": "/media/disco/UPF/jogos-android/Bis/app/build/intermediates/res/merged/debug/drawable/play.png",
+        "source": "/media/disco/UPF/jogos-android/Bis/app/src/main/res/drawable/play.png"
+    },
+    {
+        "merged": "/media/disco/UPF/jogos-android/Bis/app/build/intermediates/res/merged/debug/drawable/highscore.png",
+        "source": "/media/disco/UPF/jogos-android/Bis/app/src/main/res/drawable/highscore.png"
+    },
+    {
+        "merged": "/media/disco/UPF/jogos-android/Bis/app/build/intermediates/res/merged/debug/drawable/gameover.png",
+        "source": "/media/disco/UPF/jogos-android/Bis/app/src/main/res/drawable/gameover.png"
+    },
+    {
+        "merged": "/media/disco/UPF/jogos-android/Bis/app/build/intermediates/res/merged/debug/drawable/help.png",
+        "source": "/media/disco/UPF/jogos-android/Bis/app/src/main/res/drawable/help.png"
+    },
+    {
+        "merged": "/media/disco/UPF/jogos-android/Bis/app/build/intermediates/res/merged/debug/drawable/finalend.png",
+        "source": "/media/disco/UPF/jogos-android/Bis/app/src/main/res/drawable/finalend.png"
+    },
+    {
+        "merged": "/media/disco/UPF/jogos-android/Bis/app/build/intermediates/res/merged/debug/drawable/exit.png",
+        "source": "/media/disco/UPF/jogos-android/Bis/app/src/main/res/drawable/exit.png"
+    },
+    {
+        "merged": "/media/disco/UPF/jogos-android/Bis/app/build/intermediates/res/merged/debug/drawable/shoot_button.png",
+        "source": "/media/disco/UPF/jogos-android/Bis/app/src/main/res/drawable/shoot_button.png"
+    },
+    {
+        "merged": "/media/disco/UPF/jogos-android/Bis/app/build/intermediates/res/merged/debug/drawable/right.png",
+        "source": "/media/disco/UPF/jogos-android/Bis/app/src/main/res/drawable/right.png"
+    },
+    {
+        "merged": "/media/disco/UPF/jogos-android/Bis/app/build/intermediates/res/merged/debug/drawable/background.png",
+        "source": "/media/disco/UPF/jogos-android/Bis/app/src/main/res/drawable/background.png"
+    }
+]
